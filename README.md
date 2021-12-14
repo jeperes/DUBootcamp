@@ -14,7 +14,7 @@ The analysis of outcomes based on launch date started with the Kickstarter_Chall
 
 After sorting the campaign outcomes to descending order, a line chart named "Theather Outcomes Based on Launch date" was created from the pivot table, as well, to vizualize the relationship between outcomes and launch months. 
 
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/jeperes/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 Noticeble, the theather campaign is very successful and May is the most successful month. While June, July an August drop and have aproximately the same amount of failed campaigns. 
  
@@ -28,7 +28,7 @@ After finding the number of the successful, canceled and failed campaigns, the "
 
 The line chart was created and named "Outcomes Based on Goal", showing the percentage of successful, failed, or canceled projects and their goal amounts.
 
-![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://raw.githubusercontent.com/jeperes/kickstarter-analysis/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
